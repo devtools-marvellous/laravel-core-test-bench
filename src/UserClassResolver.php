@@ -11,7 +11,7 @@ use Illuminate\Database\Eloquent\Model;
  * @package AttractCores\LaravelCoreTestBench
  * Date: 11.12.2020
  * Version: 1.0
- * Author: Amondar-SO <zaxodu11@gmail.com>
+ * Author: Yure Nery <yurenery@gmail.com>
  */
 trait UserClassResolver
 {
